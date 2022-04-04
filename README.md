@@ -1,4 +1,11 @@
 ### Hello World! 🌎
+
+Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as ideias geniais(ou não :)) que eu colocar em prática enquanto programo.
+  
+Sou de Minas Gerais e adoro programação, no momento estou estudando heurísticas e modelos matemáticos para a resolução de problemas de otimização, porém adoro procurar coisas novas.
+
+
+
 <div align="center">
   <a href="https://github.com/carlosE1602">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
