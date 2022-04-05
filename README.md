@@ -9,7 +9,7 @@ Sou de Minas Gerais e adoro programação, no momento estou estudando heurístic
 <div align="center">
   <a href="https://github.com/carlosE1602">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=onedark&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=onedark&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
