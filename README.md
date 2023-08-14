@@ -29,9 +29,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
   
   ##
  
-<div> 
 
- 
-  ![Snake animation](https://github.com/carlosE1602/carlosE1602/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
