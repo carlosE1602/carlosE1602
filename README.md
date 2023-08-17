@@ -5,7 +5,6 @@ Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as idei
 Sou de Minas Gerais e adoro programação, no momento estou estudando programação WEB, com foco fullstack, porém adoro procurar coisas novas.
 
 
-
 <div align="center">
   <a href="https://github.com/carlosE1602">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -20,13 +19,8 @@ Sou de Minas Gerais e adoro programação, no momento estou estudando programaç
 <img align="center" alt="Cpp" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
  <img align="center" alt="Docker" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-          
-  
-          
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />        
 </div>
-  
-  ##
+
  
 
