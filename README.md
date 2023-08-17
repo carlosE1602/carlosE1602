@@ -7,8 +7,8 @@ Sou de Minas Gerais e adoro programação, no momento estou estudando programaç
 
 <div align="center">
   <a href="https://github.com/carlosE1602">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=onedark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=dark&count_private=true&hide_border=true"/>
 </div>
     
 <div align="center"><br>
