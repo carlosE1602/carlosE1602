@@ -20,7 +20,7 @@ Sou de Minas Gerais e adoro programação, no momento estou estudando programaç
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
  <img align="center" alt="Docker" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=carlosE1602&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=carlosE1602&exclude_days=Sun%2CSat)](https://git.io/streak-stats) -->
 </div>
 
  
