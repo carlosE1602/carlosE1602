@@ -3,11 +3,7 @@
 Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as ideias geniais(ou não :)) que eu colocar em prática enquanto programo.
   
 Sou de Minas Gerais e adoro programação, no momento estou estudando programação WEB, com foco fullstack, porém adoro procurar coisas novas.
-<style>
-  a:hover{
-    text-decoration: none
-  }
-</style>
+
 
 <div align="center">
   <a href="https://github.com/carlosE1602" style="outline: "none">
