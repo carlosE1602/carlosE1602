@@ -25,7 +25,7 @@ Sou de Minas Gerais e adoro programação, no momento estou estudando programaç
 
 <br>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosE1602&exclude_days=Sun%2CSat&theme=dark&hide_border=true&hide_total_contributions=true" alt="currStreak" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosE1602&theme=dark&hide_border=true&hide_total_contributions=true" alt="currStreak" /></div>
 
  
 
