@@ -1,4 +1,4 @@
-### Hello World! 🌎
+### Hello World! 
 
 Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as ideias geniais(ou não :)) que eu colocar em prática enquanto programo.
   
