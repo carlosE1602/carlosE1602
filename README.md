@@ -35,7 +35,7 @@ Sou mineiro, bacharel em Ciência da Computação e adoro programação, no mome
 
 <br>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosE1602&theme=dark&hide_border=true&hide_total_contributions=true" alt="currStreak" /></div>
+<div align="center"><img src="https://tgithub-readme-streak-stats.herokuapp.com/?user=carlosE1602&theme=dark&hide_border=true&hide_total_contributions=true&exclude_days=Sun%2CSat" alt="currStreak" /></div>
 
  
 
