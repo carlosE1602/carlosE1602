@@ -7,7 +7,6 @@ Sou mineiro, bacharel em Ciência da Computação e adoro programação, no mome
 
 
 <div align="center">
-  <a href="https://github.com/carlosE1602" style="outline: "none">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=dark&count_private=true&hide_border=true"/>
 </div>
@@ -35,7 +34,9 @@ Sou mineiro, bacharel em Ciência da Computação e adoro programação, no mome
 
 <br>
 
-<div align="center"><img src="https://tgithub-readme-streak-stats.herokuapp.com/?user=carlosE1602&theme=dark&hide_border=true&hide_total_contributions=true&exclude_days=Sun%2CSat" alt="currStreak" /></div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=carlosE1602&theme=dark&exclude_days=Sun%2CSat&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</div>
 
  
 
