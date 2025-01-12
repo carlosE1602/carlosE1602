@@ -2,7 +2,7 @@
 
 Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as ideias geniais (ou não :)) que eu colocar em prática enquanto programo.
 </br>
-Sou mineiro, bacharel em Ciência da Computação e adoro programação, no momento estou trabalhando como desenvolvedor `FullStack`, desenvolvendo soluções WEB e moblie, porém adoro procurar coisas novas.
+Sou mineiro, bacharel em Ciência da Computação e adoro programação, no momento estou trabalhando como desenvolvedor `FullStack`, desenvolvendo soluções WEB e mobile.
 </br>
 
 
