@@ -1,16 +1,15 @@
-### Hello World! 
+### 🌍 Hello, World! Bem-vindo ao meu universo de código!
 
-Seja bem vindo ao meu perfil. Esta página é dedicada a armazenar todas as ideias geniais (ou não :)) que eu colocar em prática enquanto programo.
-</br>
-Sou mineiro, bacharel em Ciência da Computação e adoro programação, no momento estou trabalhando como desenvolvedor `FullStack`, desenvolvendo soluções WEB e mobile.
-</br>
+Sou Carlos Sabino, bacharel em Ciência da Computação, pela Universidade Federal de Viçosa e apaixonado por transformar ideias em soluções reais! 💻  
+Atualmente, trabalho desenvolvendo aplicações WEB e mobile que facilitam a vida das pessoas e resolvem problemas do mundo real.  
+Minhas ferramentas atuais de trabalho incluem Typescript, React, React Native, Node.js e Nest.js! 🚀  
+
+Além disso, tenho grande admiração por desafios em programação competitiva e pratico regularmente exercícios no LeetCode. Também participei de diversas maratonas de programação, onde desenvolvi habilidades como raciocínio lógico, resolução de problemas e trabalho em equipe. 🏆
+
+![GitHub followers](https://img.shields.io/github/followers/carlosE1602?style=social)
+![GitHub stars](https://img.shields.io/github/stars/carlosE1602?style=social)
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=dark&count_private=true&hide_border=true"/>
-</div>
-    
 <div align="center"><br>
   <img align="center" alt="Cpp" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -32,11 +31,23 @@ Sou mineiro, bacharel em Ciência da Computação e adoro programação, no mome
   
 </div>
 
-<br>
+</br>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=carlosE1602&theme=dark&exclude_days=Sun%2CSat&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosE1602&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosE1602&langs_count=10&layout=compact&theme=dark&hide_border=true" />
 </div>
+
+
+### 📬 Como entrar em contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosSabino-blue)](https://www.linkedin.com/in/carlos-sabino16/)  
+[![Email](https://img.shields.io/badge/Email-carlosedu1602@gmail.com-red)](mailto:carlosedu1602@gmail.com)
+
+    
+
+
+
 
  
 
