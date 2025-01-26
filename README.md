@@ -1,6 +1,6 @@
 ### 🌍 Hello, World! Bem-vindo ao meu universo de código!
 
-Sou Carlos Sabino, bacharel em Ciência da Computação, pela Universidade Federal de Viçosa e apaixonado por transformar ideias em soluções reais! 💻  
+Sou Carlos Sabino, bacharel em Ciência da Computação pela Universidade Federal de Viçosa e apaixonado por transformar ideias em soluções reais! 💻  
 Atualmente, trabalho desenvolvendo aplicações WEB e mobile que facilitam a vida das pessoas e resolvem problemas do mundo real.  
 Minhas ferramentas atuais de trabalho incluem Typescript, React, React Native, Node.js e Nest.js! 🚀  
 
