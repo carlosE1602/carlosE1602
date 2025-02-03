@@ -6,10 +6,6 @@ Minhas ferramentas atuais de trabalho incluem Typescript, React, React Native, N
 
 Além disso, tenho grande admiração por desafios em programação competitiva e pratico regularmente exercícios no LeetCode. Também participei de diversas maratonas de programação, onde desenvolvi habilidades como raciocínio lógico, resolução de problemas e trabalho em equipe. 🏆
 
-![GitHub followers](https://img.shields.io/github/followers/carlosE1602?style=social)
-![GitHub stars](https://img.shields.io/github/stars/carlosE1602?style=social)
-
-
 <div align="center"><br>
   <img align="center" alt="Cpp" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
