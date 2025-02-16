@@ -35,8 +35,6 @@ Além disso, tenho grande admiração por desafios em programação competitiva 
 </div>
 
 
-### 📬 Como entrar em contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosSabino-blue)](https://www.linkedin.com/in/carlos-sabino16/)  
 [![Email](https://img.shields.io/badge/Email-carlosedu1602@gmail.com-red)](mailto:carlosedu1602@gmail.com)
 
