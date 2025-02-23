@@ -19,6 +19,7 @@ Além disso, tenho grande admiração por desafios em programação competitiva 
   
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" alt="nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg"/>
    <img align="center" alt="Docker" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=130&color=currentColor"/>
